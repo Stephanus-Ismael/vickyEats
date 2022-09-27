@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118578323963",
+    "project_id": "vickyeats-6fe4e",
+    "storage_bucket": "vickyeats-6fe4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118578323963:android:966b0ea9b9e00dd01e2b5e",
+        "android_client_info": {
+          "package_name": "com.dev.vickyeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118578323963-j16agoq9og25uhgtdaj19td11si8b1m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4DnfBMjSOr-SoN5e0TAVJHQga4djbA4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118578323963-j16agoq9og25uhgtdaj19td11si8b1m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
